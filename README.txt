@@ -11,3 +11,5 @@ Some things to consider:
 There are only a few levels, and there is only one game mode at the moment. This game is also quite buggy. I have a bug tracker on the GutHub project for this game. Please contact me to add reproducable (include instructions on how to recreate it) bugs to the bug tracker.
 
 This was made using Greenfoot. If you want to edit the source code and test the projects (which I would totally recommend), you'll need to download the IDE at [https://www.greenfoot.org/download]. Feel free to contribute to the project. I will release "official" releases, but go ahead and add your own spin and feel free to update the project.
+
+Request to become a Collaborator - this way you can contribute to the project.
